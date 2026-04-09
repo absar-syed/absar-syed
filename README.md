@@ -146,17 +146,6 @@ Multiple responsive, performant websites using Eleventy for static site generati
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=absar-syed&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E6DA4&icon_color=2E6DA4&text_color=ffffff&rank_icon=github"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=absar-syed&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E6DA4&text_color=ffffff&langs_count=8"/>
-
-</div>
-
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E6DA4,100:1E3A5F&height=100&section=footer" width="100%"/>
